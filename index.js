@@ -24,28 +24,28 @@ setInterval(() => {
 
   }, 
 
-            40000)
+            3000)
 
 setInterval(() => {
   message.channel.send(`${settings.cmd2}`)
 console.log(`Successfully Used ${settings.cmd2}`)
   }, 
 
-            45000)
+            3000)
 
     setInterval(() => {
   message.channel.send(`${settings.cmd3}`)
 console.log(`Successfully Used ${settings.cmd3}`)
   }, 
 
-            50000)
+            3000)
 
 setInterval(() => {
   message.channel.send(`${settings.cmd4}`)
   console.log(`Successfully Used ${settings.cmd4}`)
   }, 
 
-            55000)
+            3000)
       
 console.log(`Added Intervals Successfully ✅`)
   }
